@@ -2,7 +2,7 @@
 
 This is [Stepik](https://stepik.org)'s UI translations.
 
-At this moment there are 6 locales:
+At this moment there are 7 locales:
 * [🇺🇸 English](translations/en.yml)  (default, falls back here if some translation is missing)
 * [🇷🇺 Russian](translations/ru.yml)
 * [🇺🇦 Ukrainian](translations/uk.yml) 
@@ -10,6 +10,7 @@ At this moment there are 6 locales:
 * [🇨🇳 Chinese](translations/zh-hans.yml)
 * [🇪🇸 Spanish](translations/es.yml)
 * [🇩🇪 Deutsch](translations/de.yml)
+* [PT Portuguese](translations/pt.yml)
 
 ## How To Contribute
 
@@ -50,4 +51,5 @@ requiresTranslation(key, locale) {
 * Stepik Team (English and Russian translations; Spanish and Chinese rough auto-translation)
 * Андрій Красоткін (Ukrainian translation)
 * [@ethnoby](https://github.com/ethnoby) team (Belarusian translation)
+* Maycon M. Kopelvskki (Portuguese translation)
 * add your name here
